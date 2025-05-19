@@ -1,0 +1,34 @@
+*{
+    background-color:rgb(20, 235, 217);
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-size: 6rem;
+    padding: 19rem;
+    margin-left: 2rem;
+    margin-bottom: -19rem;
+}
+.main{
+    margin-top: 20rem;
+}
+#value{
+    margin-left: 30rem;
+    font-size: 5rem;
+}
+.increase{
+    margin-left: 15rem;
+}
+.reset{
+    width: 5rem;
+}
+.btn{
+    color: black;
+    border: 0, 2rem solid black;
+    width: 11rem;
+    border-radius: 1.2rem;
+    height: 4rem;
+    font-size: 2rem;
+}
